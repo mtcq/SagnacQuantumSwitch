@@ -29,5 +29,5 @@ Script defines the sets considered in the discrimination task.
 - [DefineSets_com_anticom_symbolic.m](https://github.com/mtcq/SagnacQuantumSwitch/blob/main/DefineSets_com_anticom_symbolic.m):
 Script defines the sets considered in the discrimination task as symbolic variables
 
-- [auxiliary_functions](https://github.com/mtcq/SagnacQuantumSwitch/tree/main/auxiliary_functions:
+- [auxiliary_functions](https://github.com/mtcq/SagnacQuantumSwitch/tree/main/auxiliary_functions):
 Folder with auxiliary functions.
