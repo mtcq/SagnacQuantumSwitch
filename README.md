@@ -1,9 +1,9 @@
-## Code to accompany: [Demonstration of a quantum SWITCH in a Sagnac configuration](https://arxiv.org/abs/xxxx.xxxx)
+## Code to accompany: [Demonstration of a quantum SWITCH in a Sagnac configuration](https://arxiv.org/abs/2211.12540)
 
 #### Teodor Strömberg, Peter Schiansky, Robert W. Peterson, Marco Túlio Quintino, and Philip Walther
 
 
-This is a repository for the article [Demonstration of a quantum SWITCH in a Sagnac configuration](https://arxiv.org/abs/xxxx.xxxx)
+This is a repository for the article [Demonstration of a quantum SWITCH in a Sagnac configuration](https://arxiv.org/abs/2211.12540)
 
  This code requires:
 - [cvx](http://cvxr.com/) - a free MATLAB toolbox for rapid prototyping of optimization problems.
