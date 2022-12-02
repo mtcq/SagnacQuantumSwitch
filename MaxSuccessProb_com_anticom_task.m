@@ -96,3 +96,9 @@ pSuccessGEN=lambdaGEN
 if pSuccessSEQ21>pSuccessSEQ12
     CSEQ=CSEQ2;
 end
+if pSuccessSEQ21>pSuccessSEQ12
+    CSEQ=CSEQ2;
+    order=[2 1];
+else
+    order=[1 2];
+end

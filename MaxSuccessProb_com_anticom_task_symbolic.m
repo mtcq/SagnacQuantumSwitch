@@ -15,7 +15,7 @@ DefineSets_com_anticom_symbolic;
 
 
 CSEQsym=sym(CSEQ);
-CSEQsym=ProjParChannel(CSEQsym,DIM);
+CSEQsym=ProjSeqChannel(CSEQsym,DIM,order);
 CSEQsym=MakePSD(CSEQsym);
 CSEQsym=CSEQsym/(trace(CSEQsym))*d^2;
 
